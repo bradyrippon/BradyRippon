@@ -5,8 +5,6 @@ Hello! I am a Research Biostatistician at Weill Cornell Medicine. I am also the 
 - 🖥️ Package development (**R**) for ethical coding
 - 🖥️ Macro development (**SAS**) for easy data & analysis summary
 - 🏀 Interactive data visualization for NBA data
-## 📫Contact
-brr7014@med.cornell.edu / brady.rippon@gmail.com
 
 <!---
 BradyRippon/BradyRippon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

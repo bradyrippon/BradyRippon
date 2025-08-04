@@ -1,5 +1,5 @@
 # Brady Rippon | Biostatistician & Data Scientist
-[Google Scholar](https://scholar.google.com/citations?user=dFCzy7wAAAAJ&hl=en)
+🔗[Google Scholar](https://scholar.google.com/citations?user=dFCzy7wAAAAJ&hl=en)
 ## About Me
 Hello! I am a Research Biostatistician at $${\color{red}WCM}$$
 

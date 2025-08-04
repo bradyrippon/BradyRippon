@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BradyRippon
 - 👀 I’m interested in data visualizations and fun data science projects! 
-- 🌱 I’m currently learning Shiny implementations for NBA data
+- 🌱 I’m currently exploring new implementations for NBA data
 - 💞️ I'm always interested in exciting collaborations!
-- 📫 brady.rippon@gmail.com
+- 📫 brr7014@med.cornell.edu / brady.rippon@gmail.com
 
 <!---
 BradyRippon/BradyRippon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
